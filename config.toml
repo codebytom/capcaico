@@ -1,4 +1,4 @@
-baseURL = 'http://capcai.co/'
+baseURL = 'https://capcai.co/'
 languageCode = 'en-us'
-title = 'CapCai'
+title = 'Cap Cai'
 theme = 'ananke'
