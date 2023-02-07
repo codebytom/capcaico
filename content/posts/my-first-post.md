@@ -1,10 +1,8 @@
 ---
-title: "My First Post"
+title: "I am Tom"
 date: 2023-02-06T09:46:34Z
 draft: false
 ---
-## Introduction
+## I am Tom
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+And I am **awesome**! This is *emphasized* text.
