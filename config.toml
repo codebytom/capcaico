@@ -1,0 +1,4 @@
+baseURL = 'http://capcai.co/'
+languageCode = 'en-us'
+title = 'Cap Cai'
+theme = 'ananke'
